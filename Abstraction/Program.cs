@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-https://vektorel.net/OYS/Ogretmen/YoklamaEdit.aspx?GrupId=8591&Tarih=12.09.2026#
+
 namespace Abstraction
 {
     internal class Program
