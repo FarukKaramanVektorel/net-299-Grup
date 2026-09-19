@@ -22,6 +22,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfism", "Polimorfism\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FotoSipsak", "FotoSipsak\FotoSipsak.csproj", "{D7563169-33C6-4573-8E4A-B04671869F0F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generics", "Generics\Generics.csproj", "{AC4160DA-6A92-4C27-898E-4C005C1BE2B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SavasOyunu", "SavasOyunu\SavasOyunu.csproj", "{B7F07E66-5CF8-434F-9845-621466860404}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +60,14 @@ Global
 		{D7563169-33C6-4573-8E4A-B04671869F0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7563169-33C6-4573-8E4A-B04671869F0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7563169-33C6-4573-8E4A-B04671869F0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC4160DA-6A92-4C27-898E-4C005C1BE2B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4160DA-6A92-4C27-898E-4C005C1BE2B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4160DA-6A92-4C27-898E-4C005C1BE2B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4160DA-6A92-4C27-898E-4C005C1BE2B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F07E66-5CF8-434F-9845-621466860404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F07E66-5CF8-434F-9845-621466860404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F07E66-5CF8-434F-9845-621466860404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F07E66-5CF8-434F-9845-621466860404}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
