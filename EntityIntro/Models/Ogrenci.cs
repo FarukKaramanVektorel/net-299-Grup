@@ -11,8 +11,8 @@ namespace EntityIntro.Models
         public string Soyad { get; set; }
 
         public DateTime DogumTarihi { get; set; }
-        public int SinifId { get; set; }
+        public Sinif Sinif { get; set; }
 
-        public List<Ders> Dersler { get; set; }
+        public List<Ders> Dersler { get; set; } = new();
     }
 }
