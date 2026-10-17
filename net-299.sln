@@ -46,6 +46,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityIntro", "EntityIntro\EntityIntro.csproj", "{D2B098F7-FDC7-467E-A3B3-A9DCDB67EF13}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OkulApp", "OkulApp\OkulApp.csproj", "{8AED85A4-18CC-4972-8992-08790D3574FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -128,6 +130,10 @@ Global
 		{D2B098F7-FDC7-467E-A3B3-A9DCDB67EF13}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D2B098F7-FDC7-467E-A3B3-A9DCDB67EF13}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D2B098F7-FDC7-467E-A3B3-A9DCDB67EF13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AED85A4-18CC-4972-8992-08790D3574FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AED85A4-18CC-4972-8992-08790D3574FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AED85A4-18CC-4972-8992-08790D3574FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AED85A4-18CC-4972-8992-08790D3574FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
